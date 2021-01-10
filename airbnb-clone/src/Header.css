@@ -32,6 +32,7 @@
     padding: 10px;
     outline-width: 0;
 }
+
 .header__right {
     display: flex;
     align-items: center;
